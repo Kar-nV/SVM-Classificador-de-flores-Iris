@@ -27,13 +27,19 @@
   <li> Treinamento Final do Modelo:
     <p>Treina o modelo SVC com todos os dados disponíveis.</p>
   </li>
+<<<<<<< HEAD
   <img src='\.ipynb_checkpoints\ProjetoIris\outputplt.png' alt='Gráfico contendo pontos coloridos referentes ao algoritmo SVM treinado'>
+=======
+>>>>>>> ff21b5d26d1410a9432bb1a7412f9aad4f668637
   <li> Predição de uma Nova Instância:
    <p> Prediz a qual classe pertencerá uma flor com características específicas usando svc.predict().</p>
   </li>
   <li> Visualização da Decisão do Modelo:
     <p>Cria um gráfico de dispersão (scatter plot) e um contorno de decisão para visualizar como o modelo SVM separa as classes com base nas características 'sepal length' e 'petal width'.</p>
   </li>
+<<<<<<< HEAD
   <img src='\.ipynb_checkpoints\ProjetoIris\outputfinal.png' >
+=======
+>>>>>>> ff21b5d26d1410a9432bb1a7412f9aad4f668637
 </ol>
 <p>Esse código fornece uma introdução básica à classificação de flores Iris usando SVM e oferece uma visualização da decisão do modelo no espaço de características.</p>
