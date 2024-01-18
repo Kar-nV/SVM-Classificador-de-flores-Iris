@@ -27,7 +27,10 @@
   <li> Treinamento Final do Modelo:
     <p>Treina o modelo SVC com todos os dados disponíveis.</p>
   </li>
+<<<<<<< HEAD
 <p><img src='outputplt.png' alt='Gráfico contendo pontos coloridos referentes ao algoritmo SVM treinado'></p>
+=======
+>>>>>>> 72a5559fa8dbce0051bc9fcb47e1782be29e8d83
   <li> Predição de uma Nova Instância:
    <p> Prediz a qual classe pertencerá uma flor com características específicas usando svc.predict().</p>
   </li>
